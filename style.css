@@ -199,8 +199,8 @@ nav ul li a{
 }
 .rightalign{
   position: relative;
-  left: 30%;
-  top: 15%;
+  left: 20px;
+  top: 10px;
 }
 body{
   text-align: center;
